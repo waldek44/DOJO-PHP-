@@ -19,3 +19,5 @@ Tablice to zmienne które wyświetlają wiele wartości
 ### 3. OPERATORY ARYTMETYCZNE
 
 ### 4. INSTRUKCJE WARUNKOWE
+
+### 4. PĘTLE
