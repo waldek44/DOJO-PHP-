@@ -12,3 +12,5 @@ Interpreter wykonuje żądanie i zwraca go do serwera w postaci gotowego dla prz
 
 
 ### 1. ZMIENNE (deklarowanie i wyświetlanie) 
+### 2. Tablice w PHP
+Tablice to zmienne które wyświetlają wiele wartości
