@@ -17,3 +17,5 @@ Interpreter wykonuje żądanie i zwraca go do serwera w postaci gotowego dla prz
 Tablice to zmienne które wyświetlają wiele wartości
 
 ### 3. OPERATORY ARYTMETYCZNE
+
+### 4. INSTRUKCJE WARUNKOWE
