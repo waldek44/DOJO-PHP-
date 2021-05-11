@@ -20,4 +20,6 @@ Tablice to zmienne które wyświetlają wiele wartości
 
 ### 4. INSTRUKCJE WARUNKOWE
 
-### 4. PĘTLE
+### 5. PĘTLE
+
+### 6. FUNKCJE
