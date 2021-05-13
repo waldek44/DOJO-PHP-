@@ -23,3 +23,5 @@ Tablice to zmienne które wyświetlają wiele wartości
 ### 5. PĘTLE
 
 ### 6. FUNKCJE
+
+### 7. OBIEKTOWE ASPEKTY PHP
